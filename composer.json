@@ -1,0 +1,16 @@
+{
+  "name": "firstbit/packagetest",
+  "type": "library",
+  "description": "test package",
+  "keywords": ["relevant","tags","go","here"],
+  "homepage": "https://yourcompany.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tariq Yousef",
+      "email": "tariqys@gmail.com",
+      "homepage": "http://tariqys.com",
+      "role": "Developer"
+    }
+  ],
+}
